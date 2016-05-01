@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>sounds/game/endbattle/endbattle.mp3</file>
+        <file>sounds/game/shot/sword/shot1.mp3</file>
+        <file>sounds/game/shot/sword/shot2.mp3</file>
+        <file>sounds/game/shot/sword/shot3.mp3</file>
+        <file>sounds/game/shot/sword/shot4.mp3</file>
+        <file>sounds/game/shot/sword/shot5.mp3</file>
+        <file>sounds/game/startbattle/startbattle.mp3</file>
+        <file>sounds/shop/upgrade/upgrade.mp3</file>
+    </qresource>
+</RCC>
