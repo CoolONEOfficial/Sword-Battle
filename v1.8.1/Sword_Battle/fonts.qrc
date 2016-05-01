@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/fonts">
+        <file>fonts/arista/arista.ttf</file>
+        <file>fonts/axis/axis.otf</file>
+        <file>fonts/projects/projects.ttf</file>
+        <file>fonts/rounds/rounds.otf</file>
+        <file>fonts/vagtur/vagtur.ttf</file>
+    </qresource>
+</RCC>
